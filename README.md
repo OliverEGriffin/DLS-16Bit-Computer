@@ -1,2 +1,2 @@
 # DLS-16Bit-Computer
-16Bit computer mde in Digital logic Simulator
+16Bit computer made in Digital logic Simulator
